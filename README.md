@@ -48,7 +48,7 @@ Os Novos Profetas da Boêmia são um coletivo musical que une humor, irreverênc
 
 ## Acesse o site:
 
-
+[Site dos Novos Profetas da Boêmia](https://osnovosprofetasdaboemia.vercel.app/)
 
 ## Desenvolvimento
 
