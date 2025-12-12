@@ -1,5 +1,7 @@
 # Os Novos Profetas da Boêmia — Website Oficial
 
+![Print home site Os Novos Profetas da Boêmia](./printprofetassite.PNG)
+
 Website oficial da banda Os Novos Profetas da Boêmia, grupo musical da Baixada Santista (São Vicente – SP) conhecido por sua estética irreverente, humor característico e identidade marcante.
 
 Este projeto foi desenvolvido com foco em apresentação institucional, identidade visual, acesso direto ao catálogo musical, informações dos membros e material promocional relacionado à banda.
