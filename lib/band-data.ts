@@ -23,7 +23,7 @@ export const bandMembers: BandMember[] = [
   {
     slug: "samuca",
     name: "Samuel Peres",
-    alias: "SAMUEL PERES",
+    alias: "ORÁCULO",
     role: "Vocal e Guitarra Rítmica",
     crime: "Não divulgado.",
     bounty: "$6.000.000",
